@@ -24,6 +24,32 @@ The official website project for **Caucasus Roleplay**, built to provide informa
 
 🔗 **Live:** https://caucasusrp.com/
 
+### 🤖 Caucasus Development — Discord Bot
+
+A feature-rich Discord bot developed for **Caucasus Development**, providing server management, moderation, support, registration, crew management and community automation tools.
+
+**Features include:**
+
+* 🛡️ Advanced moderation & warning system
+* 🚫 Blacklist management
+* 🎫 Ticket & support system
+* 📝 Registration & staff statistics
+* 👥 Crew / faction management
+* 🎭 Role & nickname management
+* 🎉 Giveaway system
+* 📢 Rich announcements & embeds
+* 🐦 Twitter & Instagram-style RP post generation
+* ⚙️ Interactive setup & logging system
+* 🌐 Multi-language command support
+
+---
+
+### 🌐 Caucasus Roleplay — Website
+
+The official website project for **Caucasus Roleplay**, built to provide information and services for the server's community.
+
+🔗 **Live:** https://caucasusrp.com/
+
 # 🔨 Currently Working On:
 
 ### 🛒 Caucasus Development — Tebex Store
