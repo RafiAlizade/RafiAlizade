@@ -26,7 +26,7 @@ The official website project for **Caucasus Roleplay**, built to provide informa
 
 # 🔨 Currently Working On:
 
-### 🛒 Caucasus Roleplay — Tebex Store
+### 🛒 Caucasus Development — Tebex Store
 
 Currently working on the official **Caucasus Development Tebex Store**, including the store structure, packages and digital products.
 
